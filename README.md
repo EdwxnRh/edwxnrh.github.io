@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Design <3**
 
-- 📫 How to reach me **edwin.rh@web.de**
+- 📫 How to reach me **Discord**
 
 - ⚡ Fun fact **I speak English, German, French and Romanian**
 

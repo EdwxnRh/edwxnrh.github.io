@@ -1,3 +1,115 @@
-/*------------------------------------*/
-/*        Made by Edwin Rheindt       */
-/*------------------------------------*/
+/* MOBILE VERSION */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header1 {
+  font-family: 'Inter', Arial;
+  font-style: normal;
+  font-weight: 1;
+  font-size: 48px;
+  line-height: 58px;
+  color: #171d1c;
+}
+
+.emph {
+  font-family: Roboto Mono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #648966;
+}
+
+.subheader {
+  font-family: 'Inter', Arial;
+  font-style: normal;
+  font-weight: 1;
+  font-size: 32px;
+  line-height: 39px;
+  color: #171d1c;
+}
+
+.text {
+  font-family: 'Inter', Arial;
+  font-style: normal;
+  font-weight: 1;
+  font-size: 12px;
+  line-height: 15px;
+  color: #171d1c;
+}
+
+.body {
+  margin: 3rem;
+}
+
+#logo {
+  position: absolute;
+  width: 56px;
+  height: 54px;
+  top: 2.6rem;
+  right: 3rem;
+}
+
+#pill-t {
+  position: inherit;
+  background: #171d1c;
+  width: 25px;
+  height: 40px;
+  border-radius: 10px;
+  bottom: 0;
+  animation: 1s ease 0s 1 slideIn;
+}
+
+#pill-b {
+  position: inherit;
+  background: #648966;
+  width: 25px;
+  height: 54px;
+  border-radius: 10px;
+  left: 2rem;
+  animation: 1s ease 0s 1 slideIn;
+}
+
+#showcase {
+  position: absolute;
+  width: 330px;
+  height: 374px;
+  right: 0%;
+  top: 15vh;
+  animation: 1s ease 0s 1 slideIn;
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(200%);
+  }
+  100% {
+    transform: translateX(100);
+  }
+}
+
+#imgBg {
+  width: 9rem;
+  height: 17.5rem;
+  background: #648966;
+  border-radius: 4px;
+  margin: 3rem auto 3rem auto;
+}
+
+#read {
+  position: absolute;
+  top: 30.2rem;
+  right: 5.4rem;
+}
+
+#arrow {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 30rem;
+  right: 3rem;
+}

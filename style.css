@@ -9,7 +9,6 @@
 .header1 {
   font-family: 'Inter', Arial;
   font-style: normal;
-  font-weight: 700;
   font-size: 48px;
   line-height: 58px;
   color: #171d1c;
@@ -61,7 +60,6 @@
   height: 40px;
   border-radius: 10px;
   bottom: 0;
-  animation: 1s ease 0s 1 slideIn;
 }
 
 #pill-b {
@@ -71,7 +69,6 @@
   height: 54px;
   border-radius: 10px;
   left: 2rem;
-  animation: 1s ease 0s 1 slideIn;
 }
 
 #showcase {
@@ -80,7 +77,7 @@
   height: 374px;
   right: 0%;
   top: 15vh;
-  animation: 1s ease 0s 1 slideIn;
+  animation: 1s ease 0s slideIn, moveAnim 2s linear 1s infinite;
 }
 
 @keyframes slideIn {
@@ -88,7 +85,25 @@
     transform: translateX(200%);
   }
   100% {
-    transform: translateX(100);
+    transform: translateX(0%);
+  }
+}
+
+@keyframes moveAnim {
+  0% {
+    transform: translateY(0%);
+  }
+  33% {
+    transform: translateY(-1%);
+  }
+  49% {
+    transform: translateY(0%);
+  }
+  66% {
+    transform: translateY(1%);
+  }
+  100% {
+    transform: translateY(0%);
   }
 }
 

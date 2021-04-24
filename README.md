@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/invite/ZRHFKfpYV7" target="blank"><img align="center" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" alt="https://discord.com/invite/ZRHFKfpYV7" height="45" width="45" /></a>
+<a href="https://discord.com/invite/ZRHFKfpYV7" target="blank"><img align="center" src="https://discord.com/assets/1c8a54f25d101bdc607cec7228247a9a.svg" alt="https://discord.com/invite/ZRHFKfpYV7" height="45" width="45" /></a>
   <a href="https://www.edwinrheindt.com" target="blank"><img align="center" src="https://www.edwinrheindt.com/assets/logo-trans.png" alt="https://www.edwinrheindt.com" height="40" width="40" /></a>
 </p>
 

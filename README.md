@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.edwinrheindt.com" target="blank"><img align="center" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" alt="https://www.edwinrheindt.com" height="30" width="40" /></a>
-  <a href="https://www.edwinrheindt.com" target="blank"><img align="center" src="https://www.edwinrheindt.com/assets/favicon-256x256.png" alt="https://www.edwinrheindt.com" height="30" width="40" /></a>
+  <a href="https://www.edwinrheindt.com" target="blank"><img align="center" src="https://www.edwinrheindt.com/assets/logo-trans.png" alt="https://www.edwinrheindt.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

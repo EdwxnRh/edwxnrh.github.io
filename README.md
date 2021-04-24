@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwxnrh&label=Profile%20views&color=0e75b6&style=flat" alt="edwxnrh" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/EdwxnRh/calculator](https://github.com/EdwxnRh/a-discord-bot)
+- 🔭 I’m currently working on [https://www.edwinrheindt.com](https://www.edwinrheindt.com)
 
 - 🌱 I’m currently learning **Courses, frameworks, animations, responsive design and advanced JS & CSS**
 
-- 🤝 I’m looking for help with [https://github.com/EdwxnRh/edwxnrh.github.io](https://github.com/EdwxnRh/a-discord-bot)
+- 🤝 I’m looking for help with /
 
-- 👨‍💻 All of my projects will be available at [https://edwxnrh.github.io/](https://edwxnrh.github.io/)
+- 👨‍💻 All of my projects will be available at [https://www.edwinrheindt.com](https://www.edwinrheindt.com)
 
 - 💬 Ask me about **Design <3**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/ZRHFKfpYV7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/ZRHFKfpYV7" height="30" width="40" /></a>
+<a href="https://discord.gg/ZRHFKfpYV7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/ZRHFKfpYV7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
